@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\practico1\practico1\bin\Debug\practico1.exe.config
+C:\Users\Acer\Desktop\practico1\practico1\bin\Debug\practico1.exe
+C:\Users\Acer\Desktop\practico1\practico1\bin\Debug\practico1.pdb
+C:\Users\Acer\Desktop\practico1\practico1\obj\Debug\practico1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\practico1\practico1\obj\Debug\practico1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\practico1\practico1\obj\Debug\practico1.exe
+C:\Users\Acer\Desktop\practico1\practico1\obj\Debug\practico1.pdb
